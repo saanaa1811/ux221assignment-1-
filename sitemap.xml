@@ -2,26 +2,6 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/post-1-how-womens-fitness-is-evolving-with-strength-training/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/post-2-how-to-build-a-fitness-lifestyle-that-lasts/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/post-3-how-strength-training-transforms-womens-fitness/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/post-1-how-your-diet-affects-your-fitness-goals/
         </loc>
     </url>
@@ -32,17 +12,32 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/post-3-how-strength-training-transforms-womens-fitness/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/how-to-build-a-fitness-lifestyle-that-lasts/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/how-womens-fitness-is-evolving-with-strength-training/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/strength-and-wellness/
+            http://localhost:8000/strength-lifestyle-2/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000/nutrition-health/
         </loc>
     </url>
     <url>
